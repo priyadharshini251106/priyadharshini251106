@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Save the supplied banner as assets/cyberpunk-header.png in this repository. -->
-<img src="assets/cyberpunk-header.png" width="100%" alt="Priyadharshini V — Cybersecurity, Ethical Hacking, Pentesting"/>
+<img src="cyberpunk-header.png" width="100%" alt="Priyadharshini V — Cybersecurity, Ethical Hacking, Pentesting"/>
 
 <br/>
 
@@ -168,7 +168,7 @@ RESEARCH  ->  LAB PRACTICE  ->  BUILD  ->  TEST  ->  DOCUMENT
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=priyadharshini251106&bg_color=090014&color=00F5FF&line=A855F7&point=39FF14&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity graph"/>
+
 
 </div>
 
